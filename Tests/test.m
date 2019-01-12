@@ -1,0 +1,15 @@
+addpath("D:\Projects IDE\Matlab\NV centers\");
+df_test;
+d2f_test;
+h1_test;
+h2_test;
+j_test;
+pi_test;
+tau_test;
+RBS_test;
+RBZeta_test;
+RBXi_test;
+legendre1_test;
+Q_specialcases_test;
+coeffs_test;
+field_test;

@@ -1,0 +1,1 @@
+% test how fine differentiation workn=3; % fixed do not changex=1:100;y1=RBXi(n, x);y2=h1_(n,x).*x;eps=1e-8;disp(max(abs((y1-y2)./y1)));assert(max(abs((y1-y2)./y1))<eps);disp("RBS_ works correct!");
